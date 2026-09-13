@@ -24,7 +24,7 @@ Any critics, suggestions, or advice are highly welcome! Feel free to open an iss
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com
+   git clone https://github.com/Enzzka/simple-handvision
 
 2. Install the libraries:
    pip install opencv-python cvzone
